@@ -1,4 +1,4 @@
-# Echocraft 💛
+# Echocraft 💛🌳
 **Présentation**
 
 Voici le bootstrap, c'est un logiciel qui vous permet d'avoir votre launcher + votre client minecraft à jour ! 
