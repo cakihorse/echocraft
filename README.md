@@ -13,7 +13,7 @@ Bon jeu ! 💯
 Je tiens a remercier @KinderrKill pour ces petits renseignements qui m'ont étaient utiles !
 Je remercie aussi ChatGPT qui est assez utile quant à la compréhension et optimisation du code :) !
 
-
+______________________________________________________________________________________________________________
 
 *English :*
 Here, you have a very lightwheight java software, it will install and update your launcher and your custom minecraft client !
