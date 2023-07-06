@@ -13,6 +13,9 @@ Bon jeu ! 💯
 Je tiens a remercier @KinderrKill pour ces petits renseignements qui m'ont étaient utiles !
 Je remercie aussi ChatGPT qui est assez utile quant à la compréhension et optimisation du code :) !
 
+Pour me contacter : 
+discord : cakihorse
+email : contact@cakihorse.fr ou si problèmes : support@cakihorse.fr
 ______________________________________________________________________________________________________________
 
 *English :*
@@ -24,7 +27,9 @@ Have a good game !
 **thanks**
 Thanks you @kinderkill for your precious advices and I thanks you ChatGpt !
 
-
+for contact me :
+discord : cakihorse
+email: contact@cakihorse.fr or if you have any problems : support@cakihorse.fr
 *Made with ❤ by cakihorse*
 
 
